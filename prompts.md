@@ -43,7 +43,35 @@
 9. What was the team’s average goals per game?
   Syracuse: 235 total goals ÷ 19 games = 12.37 goals/game
 
-10. Which player had the best plus-minus rating (goals for while on field vs. goals against)?
-  (Not explicitly listed in the stats; not typically tracked in NCAA lacrosse stat sheets)
-  Unavailable based on provided data
+10. How many games did Syracuse Women’s Lacrosse play in 2025?
+    19
+
+11. Which player had the best plus-minus rating (goals for while on field vs. goals against)?
+    (Not explicitly listed in the stats; not typically tracked in NCAA lacrosse stat sheets)
+    Unavailable based on provided data
+
+12. Which player had the highest average points per game?
+    Olivia Adamson (5.33 PPG)
+
+13. What was the closest game?
+    STANFORD on 3/07/25 (14–13)
+
+14. Which team did Syracuse score the most against?
+    UALBANY (21 goals)
+
+15. Who was the most consistent scorer?
+    Olivia Adamson (3.33 goals/game)
+
+16. Who was the top playmaker?
+    Emma Ward (46 assists)
+
+17. If Syracuse wanted to win 2 more games next season, should they focus on offense or defense? Consider their 5 narrow losses and average goals scored/allowed.
+    Initially vague. After providing the averages (12.37 goals scored, 11.63 allowed) and narrow loss count (5), the LLM suggested focusing slightly more on offense due to high correlation 
+    between shot volume and goals.
+    
+19. Is there a strong relationship between shots taken and goals scored?
+    Yes — estimated r ≈ 0.97, indicating a very strong positive relationship.
+
+20. Which single player, if improved, could flip the most close losses into wins?
+    Emma Ward — highlighted as a high-impact playmaker with both scoring and assisting ability.
 
